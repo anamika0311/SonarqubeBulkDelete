@@ -26,7 +26,7 @@ import java.io.FileNotFoundException;
 
 /**
  * 
- * Java utility to delete bulk jobs in SonarQube.This java client send a POST
+ * Java utility to delete bulk jobs in SonarQube.This java client sends a POST
  * request to SonarQube platform running in server and deletes all the jobs
  * based on the given time period
  *
